@@ -2,13 +2,7 @@ package basicas;
 
 public abstract class Letra_B {
 
-    private double comprimento;
-
-    private double forca;
-
-    private double flexao_comp;
-
-    private double flexao_trac;
+    
 
     public double getComprimento() {
         return comprimento;
